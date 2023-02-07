@@ -32,6 +32,7 @@ Desktop:
 ![desktop view completed search](https://github.com/Ing3rs/Challenge-8-weather-dashboard/blob/main/assets/images/final-screenshot-2.png)
 
 Mobile: 
+
 <img src="https://github.com/Ing3rs/Challenge-8-weather-dashboard/blob/main/assets/images/mobile-screenshot.jpg" height="500" /> <img src="https://github.com/Ing3rs/Challenge-8-weather-dashboard/blob/main/assets/images/mobile-screenshot-2.jpg" height="500" />
 
 
